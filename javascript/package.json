@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "0.0.0",
+  "description": "coderetreat template for javascript",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.11.0"
+  }
+}

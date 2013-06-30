@@ -1,0 +1,13 @@
+{
+  "name": "coffeescript",
+  "version": "0.0.0",
+  "description": "coderetreat template for coffeescript",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "expect.js": "~0.2.0",
+    "mocha": "~1.11.0"
+  }
+}

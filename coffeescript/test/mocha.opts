@@ -1,0 +1,6 @@
+--require should
+--reporter spec
+--ui bdd
+--growl
+--watch
+--compilers coffee:coffee-script
