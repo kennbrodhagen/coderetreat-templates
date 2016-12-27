@@ -18,7 +18,7 @@ What dependencies are there?
 ----------------------------
 For javascript and coffeescript I used [nodejs](http://nodejs.org/) version 0.10.12.
 Be sure to run "npm install" in the javascript or coffeescript folder prior to running your test.
-I also used [mocha](http://visionmedia.github.io/mocha/) as the test harness.  You need to install this
+I also used [mocha](http://mochajs.org/) as the test harness.  You need to install this
 as a global npm module using the command "npm install -g mocha".  To run the tests simply issue the command "mocha" from the javascript or coffeescript folders.
 
 For csharp I used [Xamarin Studio](http://xamarin.com/) version 4.0.9 (build 12).  The .sln files are 
